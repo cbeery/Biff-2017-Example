@@ -1,38 +1,30 @@
-## Welcome to GitHub Pages
+## Biff 2017
 
-You can use the [editor on GitHub](https://github.com/cbeery/biff2017example/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here's an example of a simple web page, hosted (for free) on GitHub, Using GitHub Pages.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Some of the movies
+- [Singing w/ Angry Bird](http://biff1.com/archives/2017/biff2017_program_viewer.html#13)
+- [Obit](http://biff1.com/archives/2017/biff2017_program_viewer.html#23)
+- [Frantz](http://biff1.com/archives/2017/biff2017_program_viewer.html#26)
 
-### Markdown
+### Places to eat when you're hungry
+- Hot dog carts on the mall, like that Fast Eddie guy
+- [Lazy Dog](http://www.thelazydog.com/the-lazy-dog-boulder/)
+- Other places
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Things you could do between movies
+- Play pinball at [Press Play](http://www.pressplaybar.com)
+- Stand around
+- Have a smoke
+- Talk to some strangers
+- Take a walk
+- Take a leak
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+Here's an example of how you could add a photo. You upload the photo file to GitHub, then link to it.
 ![Screenshot 2016-02-01 13.03.09.png](Screenshot 2016-02-01 13.03.09.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cbeery/biff2017example/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+HTML isn't necessary here, you can do this with some simple markup called [Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+There isn't any.
