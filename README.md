@@ -28,3 +28,7 @@ HTML isn't necessary here, you can do this with some simple markup called [Markd
 ### Support or Contact
 
 There isn't any.
+
+Now here's a quote:
+
+> I see Duncan Keith put somebody in the hospital again. -Krissy Jensen
