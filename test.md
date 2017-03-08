@@ -2,4 +2,4 @@
 
 Here's a second page.
 
-You could go back [[home]].
+You could go back [home](readme).
