@@ -33,4 +33,4 @@ Now here's a quote:
 
 > I see Duncan Keith put somebody in the hospital again. -Krissy Jensen
 
-Here's a [second page](test).
+Here's [another page](http://google.com)
