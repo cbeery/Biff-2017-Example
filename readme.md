@@ -2,6 +2,8 @@
 
 Here's an example of a simple web page, hosted (for free) on GitHub, Using GitHub Pages.
 
+This page's URL: https://cbeery.github.io/Biff-2017-Example/
+
 ### Some of the movies
 - [Singing w/ Angry Bird](http://biff1.com/archives/2017/biff2017_program_viewer.html#13)
 - [Obit](http://biff1.com/archives/2017/biff2017_program_viewer.html#23)
